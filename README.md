@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  <img <img width="800" alt="image" src="https://github.com/caioreius/Calculadora/assets/87735654/1f777dc1-830a-4f6e-9434-60f1632d13fe" width="1200"/>
+  <img <img width="950" alt="image" src="https://github.com/caioreius/Calculadora/assets/87735654/1f777dc1-830a-4f6e-9434-60f1632d13fe" width="1200"/>
 </td>
 
 <td align="justify">
