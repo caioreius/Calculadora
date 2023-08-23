@@ -34,5 +34,6 @@
 - `index.html`: Contém a estrutura do HTML para a calculadora, incluindo campos de entrada e botões de operação.
 - `style.css`: Fornece os estilos visuais para a calculadora, como posicionamento, cores e aparência geral.
 - `script.js`: Contém os scripts JavaScript para as operações da calculadora.
+<br>
 
 **Nota: Certifique-se de sempre testar e validar suas alterações antes de implantar a calculadora em qualquer ambiente de produção.**
