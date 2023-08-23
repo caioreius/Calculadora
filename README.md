@@ -24,7 +24,7 @@
 
 ## Como Usar
 
-1. Abra o arquivo `index.html` em qualquer navegador web.
+1. Abra o arquivo `index.html` em qualquer navegador web ou clique no link do GitHub Pages em "About".
 2. Insira os números inteiros nos campos de entrada.
 3. Clique nos botões correspondentes às operações que deseja realizar.
 4. O resultado da operação será exibido acima dos botões.
