@@ -1,4 +1,4 @@
-# Calculadora Simples no Visual Studio
+# Calculadora Simples em HTML
 
 <table>
 <tr>
@@ -7,20 +7,32 @@
 </td>
 
 <td align="justify">
-  <strong>Esta é uma calculadora de console desenvolvida no Visual Studio que realiza operações básicas de soma, subtração, divisão e multiplicação com números inteiros.</strong><br><br>  
+  <strong>Esta é uma calculadora web básica desenvolvida utilizando HTML, CSS e JavaScript que realiza operações básicas de soma, subtração, divisão e multiplicação com números inteiros.</strong><br><br>  
 
-  <center><em>Funcionalidades: Soma, Subtração, Divisão e Multiplicação.</em></center><br><br>
+  <center><em>Funcionalidades: Soma, Subtração, Divisão e Multiplicação com números inteiros.</em></center><br><br>
 
   <strong>Melhorias Futuras:</strong>
-    Adição de operações adicionais, como potenciação e cálculos trigonométricos simples.
-    Melhoria da interface do usuário para torná-la mais intuitiva.
-    Melhoria da versão gráfica da calculadora.<br>
+  - Melhorar a responsividade para diferentes tamanhos de tela.
+  - Adicionar tratamento de erros mais abrangente, como validação de entrada do usuário.
+  - Incluir operações mais avançadas, como porcentagem e raiz quadrada.
+  - Criar uma interface mais amigável e atraente usando bibliotecas de design, como Bootstrap.<br>
     
   Sinta-se à vontade para explorar, modificar e expandir este projeto de acordo com suas necessidades e habilidades de programação.
-
 </td>
 </tr>
 </table>
 
+## Como Usar
 
-<strong>Nota: Certifique-se de sempre testar e validar suas alterações antes de implantar a calculadora em qualquer ambiente de produção.</strong>
+1. Abra o arquivo `index.html` em qualquer navegador web.
+2. Insira os números inteiros nos campos de entrada.
+3. Clique nos botões correspondentes às operações que deseja realizar.
+4. O resultado da operação será exibido acima dos botões.
+
+## Estrutura do Projeto
+
+- `index.html`: Contém a estrutura do HTML para a calculadora, incluindo campos de entrada e botões de operação.
+- `style.css`: Fornece os estilos visuais para a calculadora, como posicionamento, cores e aparência geral.
+- `script.js`: Contém os scripts JavaScript para as operações da calculadora.
+
+**Nota: Certifique-se de sempre testar e validar suas alterações antes de implantar a calculadora em qualquer ambiente de produção.**
