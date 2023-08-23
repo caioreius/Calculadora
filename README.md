@@ -9,7 +9,7 @@
 <td align="justify">
   <strong>Esta é uma calculadora web básica desenvolvida utilizando HTML, CSS e JavaScript que realiza operações básicas de soma, subtração, divisão e multiplicação com números inteiros.</strong><br><br>  
 
-  <center><em>Funcionalidades: Soma, Subtração, Divisão e Multiplicação com números inteiros.</em></center><br><br>
+  <center><em>Funcionalidades: Soma, Subtração, Divisão e Multiplicação.</em></center><br><br>
 
   <strong>Melhorias Futuras:</strong>
   - Melhorar a responsividade para diferentes tamanhos de tela.
